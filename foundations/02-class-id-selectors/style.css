@@ -1,0 +1,19 @@
+.main{
+  background-color: lightpink;
+  font-family: Verdana, "Deja Vu Sans",sans-serif;
+}
+
+.cool{
+  font-size: 34px;
+}
+
+#first{
+  color: #0000ff;
+  font-size: 36px;
+} 
+
+#second{
+  background-color: #90ee90;
+  font-size: 34px;
+  font-weight: bolder;
+} 
