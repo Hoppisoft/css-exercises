@@ -10,12 +10,35 @@
   width: 100px;
   padding: 10px;
   border: 30px solid green;
-  margin: 60px;
+  margin: 10px;
 }
 
 .box-two {
   background-color: blue;  
-  padding: 0px;
-  border: 0px solid green;
-  margin: 0px;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  border: 30px solid yellow;
+  margin: 10px;
+  box-sizing: border-box
+}
+
+p,
+ul {
+  border: 5px solid rebeccapurple;
+}
+
+span,
+li {
+  border: 5px solid blue;
+}
+
+ul {
+  display: inline-flex;
+  list-style: none;
+  padding: 10;
+}
+
+.inline {
+  display: inline;
 }
